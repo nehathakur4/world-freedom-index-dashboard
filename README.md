@@ -15,6 +15,7 @@ The core goal of this dashboard is to present a compelling and interactive visua
 - Free Countries Count
 - Pearson Correlation (CL vs PR)
    -*Provides a quick glance at global coverage, scoring averages, and how civil liberties relate to political rights.*
+  
 **Clustered Bar Chart: Freedom Score by Region**
 
 - Displays the distribution of "Free", "Partly Free", and "Not Free" countries across global regions, offering an easy-to-read comparison.
