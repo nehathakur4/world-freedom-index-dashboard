@@ -18,8 +18,8 @@ The core goal of this dashboard is to present a compelling and interactive visua
 **Clustered Bar Chart: Freedom Score by Region**
 - Displays the distribution of "Free", "Partly Free", and "Not Free" countries across global regions, offering an easy-to-read comparison.
 **Map View: World Freedom Status**
-- An interactive map with color-coded markers for freedom classification:
-🟢 Free 🟡 Partly Free 🔴 Not Free
+- An interactive map with color-coded markers for freedom classification:  
+  🟢 Free 🟡 Partly Free 🔴 Not Free
 **Scatter Plot: Correlation Between Civil Liberties & Political Rights**
 - Highlights the strong correlation between civil liberties and political rights across regions.
 **Line Chart: Freedom Score Trends Over Time (1995–2020)**
