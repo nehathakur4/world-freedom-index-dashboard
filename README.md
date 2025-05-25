@@ -16,16 +16,26 @@ The core goal of this dashboard is to present a compelling and interactive visua
 - Pearson Correlation (CL vs PR)
    -*Provides a quick glance at global coverage, scoring averages, and how civil liberties relate to political rights.*
 **Clustered Bar Chart: Freedom Score by Region**
+
 - Displays the distribution of "Free", "Partly Free", and "Not Free" countries across global regions, offering an easy-to-read comparison.
+
 **Map View: World Freedom Status**
+
 - An interactive map with color-coded markers for freedom classification:  
   🟢 Free 🟡 Partly Free 🔴 Not Free
+
 **Scatter Plot: Correlation Between Civil Liberties & Political Rights**
+
 - Highlights the strong correlation between civil liberties and political rights across regions.
+
 **Line Chart: Freedom Score Trends Over Time (1995–2020)**
+
 - Illustrates global freedom trends over time, showing changes in both civil liberties and political rights.
+
 **Interactive Table: Country-Level Freedom Data**
+
 - Enables detailed exploration by country, year, region, and status for further analysis.
+
 
 ## 💡 **Key Business Insights**
 - Europe and North America consistently report the highest number of "Free" nations.
