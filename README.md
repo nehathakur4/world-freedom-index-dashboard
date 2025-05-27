@@ -66,7 +66,7 @@ Interactive Power BI dashboard tracking global freedom (1995–2020), comparing 
 
 **Neha Thakur** | Data Analyst
 Email: [nehaathakurnehaathakur92@gmail.com](mailto:nehaathakurnehaathakur92@gmail.com)
-LinkedIn: [nehathakur8](https://www.linkedin.com/in/nehathakur8)
+LinkedIn: [linkedin.com/in/nehathakur8](https://www.linkedin.com/in/nehathakur8)
 
 Passionate about transforming data into impactful stories that drive decision-making and foster global awareness.
 
